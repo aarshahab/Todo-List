@@ -6,7 +6,6 @@ import org.springframework.boot.autoconfigure.flyway.FlywayAutoConfiguration;
 import org.springframework.boot.autoconfigure.flyway.FlywayDataSource;
 
 @SpringBootApplication
-@FlywayDataSource
 public class SpringbootApplication {
 
 	public static void main(String[] args) {
